@@ -58,6 +58,3 @@ This dashboard provides a single-page, high-level view of aquaculture production
 
 [Add your license here, e.g. MIT]
 
----
-
-*Built by [Roshan](https://github.com/) — LAN Studios*
