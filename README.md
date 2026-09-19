@@ -54,7 +54,5 @@ This dashboard provides a single-page, high-level view of aquaculture production
 - This is part of a set of dashboards under a larger **Multi-State Fisheries & Aquaculture Intelligence Platform**, alongside an Executive KPI Dashboard tracking agricultural market (mandi) prices.
 - Data reflects [add reporting period / source here].
 
-## 📄 License
 
-[Add your license here, e.g. MIT]
 
