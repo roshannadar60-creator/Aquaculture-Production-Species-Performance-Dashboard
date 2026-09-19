@@ -1,11 +1,18 @@
 # 🐟 Aquaculture Production & Species Performance Dashboard
-<img width="959" height="475" alt="image" src="https://github.com/user-attachments/assets/1745b3f0-44bf-4fd9-9bf6-608502546b24" />
+
+![Dashboard Preview](images/dashboard.png)
 
 A Power BI dashboard analyzing farming systems, species performance, and production metrics across India's aquaculture sector — built as part of a broader data intelligence initiative covering Indian fisheries and aquaculture.
 
 ## 📊 Overview
 
-This dashboard provides a single-page, high-level view of aquaculture production data, letting users explore performance by **state, region, species, and water type**. It's built on a flattened, single-table data model (`Farming Systems & Species`) optimized for clean Power BI imports.
+This dashboard provides a single-page, high-level view of aquaculture production data, letting users explore performance by state, region, species, and water type. It is built on a flattened, single-table data model (**Farming Systems & Species**) optimized for clean Power BI imports.
+
+## 🎥 Demo Video
+
+Watch the **Aquabas Dashboard Demo Video** for a full walkthrough of the dashboard, its visuals, and how to use the slicers:
+
+👉 [Aquabas Dashboard Demo Video](ADD_VIDEO_LINK_HERE)
 
 ## ✨ Key Features
 
@@ -30,11 +37,15 @@ This dashboard provides a single-page, high-level view of aquaculture production
 | Profit Margin % | Profitability ratio |
 | Market Status | Current market condition indicator |
 
-## 🗂️ Data Model
+## 🗂️ Data Model & Source Data
 
-- Single flat table: **Farming Systems & Species**
-- Dimensions: State, Region, Species, Water Type, Market Status
-- Measures: Total Production, Total Species, Average Price, Average Temperature, Profit, Profit Margin %
+The dashboard is powered by a single Excel file included in this repository:
+
+📁 [`farming and species (1).xlsx`](farming%20and%20species%20%281%29.xlsx)
+
+- **Single flat table:** Farming Systems & Species
+- **Dimensions:** State, Region, Species, Water Type, Market Status
+- **Measures:** Total Production, Total Species, Average Price, Average Temperature, Profit, Profit Margin %
 - Designed as one denormalized sheet (no relationships) for simplicity and fast loading
 
 ## 🛠️ Tech Stack
@@ -45,14 +56,14 @@ This dashboard provides a single-page, high-level view of aquaculture production
 ## 📥 Getting Started
 
 1. Clone or download this repository
-2. Open `dash.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
-3. Refresh the data connection if prompted
-4. Explore the dashboard using the slicers on the right panel
+2. Keep `farming and species (1).xlsx` in the project folder
+3. Open `dash.pbix` in Power BI Desktop
+4. Refresh the data connection if prompted (point it to the Excel file if the path has changed)
+5. Explore the dashboard using the slicers on the right panel
 
 ## 📌 Notes
 
-- This is part of a set of dashboards under a larger **Multi-State Fisheries & Aquaculture Intelligence Platform**, alongside an Executive KPI Dashboard tracking agricultural market (mandi) prices.
-- Data reflects [add reporting period / source here].
-
+- This is part of a set of dashboards under a larger **Multi-State Fisheries & Aquaculture Intelligence Platform**, alongside an **Executive KPI Dashboard** tracking agricultural market (mandi) prices.
+- Data reflects **[add reporting period / source here]**.
 
 
