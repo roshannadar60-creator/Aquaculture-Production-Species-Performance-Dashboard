@@ -1,5 +1,5 @@
-# Aquaculture-Production-Species-Performance-Dashboard
 # 🐟 Aquaculture Production & Species Performance Dashboard
+<img width="959" height="475" alt="image" src="https://github.com/user-attachments/assets/1745b3f0-44bf-4fd9-9bf6-608502546b24" />
 
 A Power BI dashboard analyzing farming systems, species performance, and production metrics across India's aquaculture sector — built as part of a broader data intelligence initiative covering Indian fisheries and aquaculture.
 
