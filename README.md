@@ -12,7 +12,7 @@ This dashboard provides a single-page, high-level view of aquaculture production
 
 Watch the **Aquabas Dashboard Demo Video** for a full walkthrough of the dashboard, its visuals, and how to use the slicers:
 
-👉 [Aquabas Dashboard Demo Video]([ADD_VIDEO_LINK_HERE](https://lnkd.in/p/dw9fAW8Q)
+👉 [Aquabas Dashboard Demo Video](https://lnkd.in/p/dw9fAW8Q)
 
 ## ✨ Key Features
 
